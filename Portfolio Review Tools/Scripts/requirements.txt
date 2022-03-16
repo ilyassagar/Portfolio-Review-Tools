@@ -1,0 +1,6 @@
+docx2python
+PyPDF2
+pandas
+numpy
+matplotlib
+datetime
